@@ -1,0 +1,30 @@
+[
+  {
+    "title": "The Enigma of Time",
+    "author": "Eleanor Smith",
+    "publication_year": 2020,
+    "genre": ["Science Fiction", "Mystery"],
+    "rating": 4.2
+  },
+  {
+    "title": "Echoes of Eternity",
+    "author": "Jonathan Parker",
+    "publication_year": 2018,
+    "genre": ["Fantasy", "Adventure"],
+    "rating": 4.5
+  },
+  {
+    "title": "Sleuth's Gambit",
+    "author": "Marie Williams",
+    "publication_year": 2022,
+    "genre": ["Mystery", "Thriller"],
+    "rating": 4.8
+  },
+  {
+    "title": "Arcane Academy",
+    "author": "David Roberts",
+    "publication_year": 2019,
+    "genre": ["Fantasy", "Young Adult"],
+    "rating": 3.9
+  }
+]
